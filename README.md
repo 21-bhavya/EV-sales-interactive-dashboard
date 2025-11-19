@@ -27,10 +27,8 @@ To assist **AtliQ Motors**, a leading US-based EV manufacturer, in understanding
 ## 📁 Files Included
 
 - `EV_Market_Analysis_AtliQ.pbix` → Main Power BI Dashboard
-- `primary_and_secondary_questions.pdf` → Business questions
-- `problem_statement.pdf` → Project context
-- `meta_data.txt` → Dataset metadata
 - `data/` → EV sales by state, makers, and time dimension (monthly granularity)
+- `Electric vehicle(EV) Sales Analysis -` → Summary Presentation 
 
 ---
 
@@ -54,14 +52,6 @@ To assist **AtliQ Motors**, a leading US-based EV manufacturer, in understanding
 - **Microsoft Excel**: Data cleaning and transformation  
 - **DAX**: Custom measures for penetration, CAGR, projections  
 - **PDF & Web Resources**: Supporting business context
-
----
-
-## 🖼 Sample Dashboard Snapshot
-
-> *(Add a screenshot image link like below if available)*  
-> ![Dashboard Preview](images/ev-dashboard-preview.png)
-
 ---
 
 ## 📈 Business Recommendations
@@ -82,11 +72,5 @@ To assist **AtliQ Motors**, a leading US-based EV manufacturer, in understanding
 
 ---
 
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)  
-[GitHub Portfolio](https://github.com/yourusername)
-
----
-
 > 💡 *This project is part of the Codebasics Resume Project Challenge. Inspired by real-world business cases using public datasets from [Vahan Sewa](https://vahan.parivahan.gov.in/).*  
+
